@@ -1,4 +1,4 @@
-# StratSync Pilot AI — Internship Assignment
+# StratSync Pilot AI
 
 This is a redesigned version of the StratSync Pilot AI site for the internship assessment.
 
